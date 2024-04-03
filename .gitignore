@@ -1,0 +1,6 @@
+#ignoring a specific file 
+.config.json
+.env
+
+#ignoring pycache file
+**/__pycache__/ 
