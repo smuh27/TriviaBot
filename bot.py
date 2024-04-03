@@ -23,7 +23,7 @@ correct_answer = random['results'][0]['correct_answer']
 
 user_answer = ""
 player = ""
-leaderboard = []
+
 
 class buttonView(discord.ui.View):
     @discord.ui.button(label="True")
